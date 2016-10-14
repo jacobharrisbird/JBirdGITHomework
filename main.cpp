@@ -10,6 +10,10 @@
 
 int main(int argc, const char * argv[]) {
     std::cout << "New Line\n";
+    std::cout << "New Line\n";
+    std::cout << "New Line\n";
+    std::cout << "New Line\n";
+    std::cout << "New Line\n";
     std::cout << "Hello, World!\n";
     return 0;
 }
